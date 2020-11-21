@@ -1,0 +1,3 @@
+WS1: takes as input  the country's name and gives us its IsoCode
+WS2: takes the country's ISO code as input and gives us its flag.
+
